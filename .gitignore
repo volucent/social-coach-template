@@ -1,0 +1,8 @@
+.DS_Store
+
+# Keep personal coaching data out of public forks.
+private/*
+!private/README.md
+
+# Optional local filled-in copies.
+*.local.md
