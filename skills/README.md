@@ -15,3 +15,7 @@ Use them as small task modes:
 Default rule for all skills:
 
 > Protect the user's nervous system, relationships, credibility, safety, and long-term goals.
+
+Evidence-informed rule for all skills:
+
+> Use CBT-style fact/thought separation, radical acceptance, and radical ownership where useful. Do not present the work as therapy, a therapy journal, diagnosis, treatment, or EMDR.

@@ -19,8 +19,11 @@ social connection.
 - Do not treat as moral failure.
 - Do not force generic social rituals when a counter-offer preserves the relationship.
 - Prefer no lies and no essays.
-- Consider optiont to decline the format and offer a better one.
+- Consider the option to decline the format and offer a better one.
 - Consider clean no.
+- Use CBT-style separation: facts, interpretation, preference, and request.
+- Use radical acceptance: if the format is wrong, stop arguing with that fact.
+- Use radical ownership: choose the cleanest yes, no, time-box, or counter-offer.
 
 ## Output
 
@@ -28,7 +31,8 @@ Return:
 
 1. Recommendation: yes, no, time-boxed yes, or counter-offer.
 2. Script: ready to send.
-3. Optional rule to save if the pattern repeats.
+3. Thought check: one sentence separating fact from interpretation, if useful.
+4. Optional rule to save if the pattern repeats.
 
 ## Script Shape
 

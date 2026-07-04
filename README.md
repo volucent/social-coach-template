@@ -7,9 +7,27 @@ scripts, templates, and reusable prompt skills. It should not contain your priva
 history, private relationships, real names, employer details, medical details, or live
 conflicts.
 
-This is not therapy, legal advice, medical advice, or emergency support. It is a decision
-support system for moments where emotion, ambiguity, conflict, or social friction makes
-the next move expensive to compute.
+This is not a therapy bot, therapy journal, legal advice, medical advice, or emergency
+support. It is a decision support system for moments where emotion, ambiguity, conflict,
+or social friction makes the next move expensive to compute.
+
+It can draw from proven therapeutic techniques and useful modes of thought without
+claiming to provide therapy, diagnosis, treatment, or trauma processing.
+
+## Evidence-Informed Influences
+
+- Cognitive Behavioral Therapy (CBT): often called the "gold standard" of talk therapy.
+  This repo uses CBT-style thinking to identify and challenge unhelpful thought patterns
+  before they drive replies, decisions, or avoidance. Useful techniques include
+  thought-challenging, cognitive restructuring, and behavioral experiments.
+- Eye Movement Desensitization and Reprocessing (EMDR): a respected, trauma-specialized
+  therapy used by trained clinicians to help process traumatic memories. EMDR itself can
+  involve bilateral sensory stimulation such as guided eye movements, tapping, or
+  alternating sounds. This repo does not provide EMDR treatment; it can recommend
+  grounding, containment, delay, or professional support when trauma charge is active.
+- Radical acceptance and radical ownership: practical mindsets for working with reality.
+  Radical acceptance helps stop fighting what is already true; radical ownership focuses
+  attention on the response, boundary, repair, or choice still available.
 
 ## What This Is For
 

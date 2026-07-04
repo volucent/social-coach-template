@@ -21,6 +21,8 @@ absorbing someone else's expectations.
 - Make the boundary enforceable.
 - If preserving the relationship matters, include a counter-offer.
 - If the person repeatedly ignores the boundary, include the consequence.
+- Use radical acceptance: do not argue with the other person's preferences, limits, or pattern.
+- Use radical ownership: state what the user will do, not what the other person must become.
 
 ## Output
 
@@ -29,7 +31,8 @@ Return:
 1. Boundary type: decline, limit, redirect, exit, or work blocker.
 2. Short script.
 3. Firmer version if pushed.
-4. Optional counter-offer.
+4. Ownership check: what the user controls.
+5. Optional counter-offer.
 
 ## Examples
 

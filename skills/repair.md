@@ -20,6 +20,8 @@ needs to repair without surrendering the underlying boundary or process point.
 - Do not use sensitive background as the explanation unless explicitly appropriate.
 - Preserve the underlying valid ask or boundary.
 - Keep it short enough to send.
+- Use radical ownership: own the user's behavior without accepting false blame.
+- Use CBT-style separation: distinguish the mistake, the interpretation, and the still-valid need.
 
 ## Output
 
@@ -27,8 +29,9 @@ Return:
 
 1. Whether repair is needed: yes, no, or tone-only.
 2. Ready-to-send repair.
-3. What not to include.
-4. If relevant, next-boundary script.
+3. Ownership check: what to own and what not to own.
+4. What not to include.
+5. If relevant, next-boundary script.
 
 ## Default Work Repair
 

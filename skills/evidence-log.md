@@ -16,6 +16,7 @@ evidence entry for a recurring process problem.
 - This is not a vent document.
 - Label evidence strength: direct, indirect, hearsay, or oral-only.
 - Separate quote, pattern, impact, and escalation use.
+- Separate observed facts from interpretations and threat-stories.
 - Avoid inflammatory labels.
 - Do not overstate what the artifact proves.
 - Include follow-up evidence to gather.
@@ -29,6 +30,7 @@ Return a ready-to-paste private evidence entry with:
 - Evidence strength.
 - People.
 - Excerpt or summary.
+- Facts vs interpretations.
 - Pattern shown.
 - Impact.
 - Use in escalation.
